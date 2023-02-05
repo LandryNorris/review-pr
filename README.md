@@ -48,7 +48,7 @@ endstep0-->
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Assign yourself as a reviewer</h2></summary>
 
 _Welcome to "Review pull requests"! :wave:_
@@ -192,7 +192,7 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
